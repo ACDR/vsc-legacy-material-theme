@@ -4,6 +4,8 @@ This repository is a fork of and contains the legacy visual studio code Material
 
 The only changes made are to this readme and package.json to remove the new theme options when selecting a theme in vscode, along with changes necessary to publish this package to the visual studio marketplace.
 
+## Contents
+
 - [Getting started](#getting-started)
   - [Installation](#installation)
     - [Packaged VSIX Extension](#packaged-vsix-extension)
