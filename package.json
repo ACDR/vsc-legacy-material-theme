@@ -1,27 +1,22 @@
 {
-  "name": "vsc-material-theme",
-  "displayName": "Material Theme",
-  "description": "The most epic theme now for Visual Studio Code",
-  "version": "31.6.0",
-  "publisher": "Equinusocio",
+  "name": "vsc-legacy-material-theme",
+  "displayName": "Legacy Material Theme",
+  "description": "Legacy Material Theme for Visual Studio Code",
+  "version": "1.0.1",
+  "publisher": "ACDR",
   "license": "Apache-2.0",
-  "author": "Mattia Astorino [@equinusocio]",
+  "author": "Aaron Rose [@ACDR]",
   "icon": "logo.png",
-  "funding": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/vsc-material-theme"
-  },
   "galleryBanner": {
     "color": "#11131C",
     "theme": "dark"
   },
-  "homepage": "https://material-theme.site",
   "repository": {
     "type": "git",
-    "url": "https://github.com/material-theme/vsc-material-theme.git"
+    "url": "https://github.com/acdr/vsc-legacy-material-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/material-theme/vsc-material-theme/issues"
+    "url": "https://github.com/acdr/vsc-legacy-material-theme/issues"
   },
   "engines": {
     "node": "<=10",
@@ -97,56 +92,6 @@
     },
     "themes": [
       {
-        "label": "Material Theme",
-        "path": "./build/themes/Material-Theme-Default.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme High Contrast",
-        "path": "./build/themes/Material-Theme-Default-High-Contrast.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Darker",
-        "path": "./build/themes/Material-Theme-Darker.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Darker High Contrast",
-        "path": "./build/themes/Material-Theme-Darker-High-Contrast.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Palenight",
-        "path": "./build/themes/Material-Theme-Palenight.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Palenight High Contrast",
-        "path": "./build/themes/Material-Theme-Palenight-High-Contrast.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Ocean",
-        "path": "./build/themes/Material-Theme-Ocean.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Ocean High Contrast",
-        "path": "./build/themes/Material-Theme-Ocean-High-Contrast.json",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Material Theme Lighter",
-        "path": "./build/themes/Material-Theme-Lighter.json",
-        "uiTheme": "vs"
-      },
-      {
-        "label": "Material Theme Lighter High Contrast",
-        "path": "./build/themes/Material-Theme-Lighter-High-Contrast.json",
-        "uiTheme": "vs"
-      },
-      {
         "label": "Legacy - Material Theme",
         "path": "./build/themes/Material-Theme-Default-Legacy.json",
         "uiTheme": "vs-dark"
@@ -201,18 +146,7 @@
   "extensionDependency": [
     "Equinusocio.vsc-material-theme-icons"
   ],
-  "badges": [
-    {
-      "url": "https://camo.githubusercontent.com/d3c6e53aa66426dead24cdedab0e83082103bea6/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f657175696e75736f63696f2f7673632d6d6174657269616c2d7468656d652e7376673f7374796c653d666c61742d737175617265",
-      "href": "https://github.com/material-theme/vsc-material-theme/issues",
-      "description": "Open issues"
-    },
-    {
-      "url": "https://img.shields.io/badge/Support%20this%20project-%F0%9F%92%96%EF%B8%8F-green.svg?style=flat-square",
-      "href": "https://opencollective.com/vsc-material-theme",
-      "description": "Support us!"
-    }
-  ],
+  "badges": [],
   "devDependencies": {
     "@moxer/vscode-theme-generator": "1.5.0",
     "@types/browserify": "12.0.36",
@@ -237,10 +171,5 @@
     "@sanity/client": "0.147.3",
     "@types/fs-extra": "8.0.1",
     "opencollective": "1.0.3"
-  },
-  "collective": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/vsc-material-theme",
-    "logo": "https://opencollective.com/opencollective/logo.txt"
   }
 }
