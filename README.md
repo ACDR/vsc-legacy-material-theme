@@ -1,12 +1,10 @@
+# Legacy Material Themes for Visual Studio Code
 
-<p align="center"><img width="800px" src="https://i.ibb.co/LzRwxp4/Frame.jpg"></p>
-<p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme#review-details"><img src="https://vsmarketplacebadge.apphb.com/rating-star/Equinusocio.vsc-material-theme.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08"/></a> <a href="https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/Equinusocio.vsc-material-theme.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS"/></a> <a href="https://a.paddle.com/v2/click/16413/37697?link=1227"><img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20Course%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
-</p>
+This repository is a fork of and contains the legacy visual studio code Material themes originally from https://github.com/material-theme/vsc-material-theme.
 
+The only changes made are to this readme and package.json to remove the new theme options when selecting a theme in vscode, along with changes necessary to publish this package to the visual studio marketplace.
 
-
-The most epic theme meets Visual Studio Code. You can help by reporting issues [here](https://github.com/equinusocio/vsc-material-theme/issues).
+## Contents
 
 - [Getting started](#getting-started)
   - [Installation](#installation)
@@ -26,7 +24,7 @@ The most epic theme meets Visual Studio Code. You can help by reporting issues [
 
 ## Getting started
 
-You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme).
+You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ACDR.vsc-legacy-material-theme).
 
 ### Installation
 
