@@ -39,7 +39,7 @@ Paste the following command and press `Enter`:
 ext install material theme
 ```
 
-And pick the one by **Mattia Astorino** (me) as author.
+And pick the one by **Mattia Astorino** as author.
 
 #### Packaged VSIX Extension
 
@@ -163,35 +163,6 @@ Thanks to the Material Theme community you can use is with other softwares, here
 
 ## Other resources
 - **AppIcon:** [Download](https://github.com/equinusocio/vsc-material-theme/files/989048/vsc-material-theme-appicon.zip) the official Material Theme app icon for Visual Studio code
-
-
-## Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute]](CONTRIBUTING.md).
-<a href="graphs/contributors"><img src="https://opencollective.com/vsc-material-theme/contributors.svg?width=890" /></a>
-
-
-## Backers
-
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/vsc-material-theme#backer)]
-
-<a href="https://opencollective.com/vsc-material-theme#backers" target="_blank"><img src="https://opencollective.com/vsc-material-theme/backers.svg?width=890"></a>
-
-
-## Sponsors
-
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/vsc-material-theme#sponsor)]
-
-<a href="https://opencollective.com/vsc-material-theme/sponsor/0/website" target="_blank"><img src="https://opencollective.com/vsc-material-theme/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/vsc-material-theme/sponsor/1/website" target="_blank"><img src="https://opencollective.com/vsc-material-theme/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/vsc-material-theme/sponsor/2/website" target="_blank"><img src="https://opencollective.com/vsc-material-theme/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/vsc-material-theme/sponsor/3/website" target="_blank"><img src="https://opencollective.com/vsc-material-theme/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/vsc-material-theme/sponsor/4/website" target="_blank"><img src="https://opencollective.com/vsc-material-theme/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/vsc-material-theme/sponsor/5/website" target="_blank"><img src="https://opencollective.com/vsc-material-theme/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/vsc-material-theme/sponsor/6/website" target="_blank"><img src="https://opencollective.com/vsc-material-theme/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/vsc-material-theme/sponsor/7/website" target="_blank"><img src="https://opencollective.com/vsc-material-theme/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/vsc-material-theme/sponsor/8/website" target="_blank"><img src="https://opencollective.com/vsc-material-theme/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/vsc-material-theme/sponsor/9/website" target="_blank"><img src="https://opencollective.com/vsc-material-theme/sponsor/9/avatar.svg"></a>
 
 ---
 
