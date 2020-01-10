@@ -2,7 +2,7 @@
   "name": "vsc-legacy-material-theme",
   "displayName": "Legacy Material Theme",
   "description": "Legacy Material Theme for Visual Studio Code",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "ACDR",
   "license": "Apache-2.0",
   "author": "Aaron Rose [@ACDR]",
